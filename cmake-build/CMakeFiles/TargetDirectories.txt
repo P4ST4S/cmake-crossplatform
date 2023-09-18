@@ -1,0 +1,3 @@
+/home/pastas/test/cmake-tuto/cmake-build/CMakeFiles/calculator.dir
+/home/pastas/test/cmake-tuto/cmake-build/CMakeFiles/edit_cache.dir
+/home/pastas/test/cmake-tuto/cmake-build/CMakeFiles/rebuild_cache.dir
