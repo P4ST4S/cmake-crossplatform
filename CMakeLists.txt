@@ -1,7 +1,9 @@
 cmake_minimum_required(VERSION 3.25)
-project(calculator)
+project(calculator LANGUAGES CXX)
 
-add_executable(calculator 
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(${PROJECT_NAME}
 main.cpp
 division.cpp
 addition.cpp
